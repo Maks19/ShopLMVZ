@@ -1,0 +1,50 @@
+{
+  "100": {
+    "name": "Яблоки",
+    "prise":18,
+    "country":"Украина",
+    "image": "images/apples.png"
+  },
+  "102": {
+    "name": "Торт",
+    "prise":60,
+    "country":"Франция",
+    "image": "images/cake.png"
+  },
+  "103": {
+    "name": "Кофе",
+    "prise":40,
+    "country":"Италия",
+    "image": "images/cofe.png"
+  },
+  "104": {
+    "name": "Виноград",
+    "prise":30,
+    "country":"Украина",
+    "image": "images/grapes.png"
+  },
+  "105": {
+    "name": "Лимоны",
+    "prise":23,
+    "country":"Турция",
+    "image": "images/lemons.png"
+  },
+  "106": {
+    "name": "Молоко",
+    "prise":12,
+    "country":"Украина",
+    "image": "images/milk.png"
+  },
+  "107": {
+    "name": "Орехи",
+    "prise":90,
+    "country":"Украина",
+    "image": "images/nuts.png"
+  },
+  "108": {
+    "name": "Клубника",
+    "prise":70,
+    "country":"Польша",
+    "image": "images/strawbery.png"
+  }
+}
